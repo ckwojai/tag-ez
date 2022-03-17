@@ -11,5 +11,5 @@
 - In essence, we would like to develop a Machine Learning model that can predict related tags, given questions title and text
 * Dataset
 - We will be using a subset of data scraped from StackOverflow (Tile and Body -> Tags), with over 6M datapoints
-* Approach
-- We are going to train our model using Binary Relevance Method with One vs Rest Classifier; and compare their performance
+# * Approach
+# - We are going to train our model using Binary Relevance Method with One vs Rest Classifier; and compare their performance
