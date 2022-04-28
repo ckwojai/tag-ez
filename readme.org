@@ -1,4 +1,4 @@
-* Team Info
+* Team Info: Group 7
 | Member          | email                           |
 |-----------------+---------------------------------|
 | Kin Chang       | kin.chang@sjsu.edu              |
