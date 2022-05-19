@@ -7,6 +7,10 @@
 | Jay Patel       | jay.j.patel@sjsu.edu            |
 | Rutvik Patel    | rutvik.g.patel@sjsu.edu         |
 
+* Resource
+- [[https://docs.google.com/presentation/d/1kbJmY6kyRP67SrSBST_wPOHUF7e4PRvohOvnahegRsM/edit?pli=1#slide=id.g12c7fdf1e1f_0_76][Presentation Slides]]
+- [[https://docs.google.com/document/d/1jRdZifvG4T3W-85aslFYI2XEfDofcWxCgPFYgDAZenM/edit?usp=sharing][Documentation / Report]]
+
 * Getting started
 1) Activate your Python virtual environment (preferably Conda with Python 3.7+) in your terminal
 2) run ~pip install -r requirements.txt~ to install dependencies
