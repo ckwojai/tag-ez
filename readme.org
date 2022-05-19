@@ -6,6 +6,12 @@
 | Sagar Raval     | sagarbharatkumar.raval@sjsu.edu |
 | Jay Patel       | jay.j.patel@sjsu.edu            |
 | Rutvik Patel    | rutvik.g.patel@sjsu.edu         |
+
+* Getting started
+1) Activate your Python virtual environment (preferably Conda with Python 3.7+) in your terminal
+2) run ~pip install -r requirements.txt~ to install dependencies
+3) run ~jupyter notebook~
+4) Within the notebook in your browser, open examine_dataset.ipynb or Model Training.ipynb and run all cells
 * Objectives
 - We want to improve experience for users when they ask questioin in Q&A platform, such as Stack Overflow, Quora, etc., by automatically suggesting tags based on the question they are asking.
 - In essence, we would like to develop a Machine Learning model that can predict related tags, given questions title and text
